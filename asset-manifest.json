@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/marketing-search/static/css/main.95fed2f5.chunk.css",
+    "main.js": "/marketing-search/static/js/main.89b0c112.chunk.js",
+    "main.js.map": "/marketing-search/static/js/main.89b0c112.chunk.js.map",
+    "runtime-main.js": "/marketing-search/static/js/runtime-main.72ae339f.js",
+    "runtime-main.js.map": "/marketing-search/static/js/runtime-main.72ae339f.js.map",
+    "static/css/2.d26d1254.chunk.css": "/marketing-search/static/css/2.d26d1254.chunk.css",
+    "static/js/2.09591ad4.chunk.js": "/marketing-search/static/js/2.09591ad4.chunk.js",
+    "static/js/2.09591ad4.chunk.js.map": "/marketing-search/static/js/2.09591ad4.chunk.js.map",
+    "index.html": "/marketing-search/index.html",
+    "static/css/2.d26d1254.chunk.css.map": "/marketing-search/static/css/2.d26d1254.chunk.css.map",
+    "static/css/main.95fed2f5.chunk.css.map": "/marketing-search/static/css/main.95fed2f5.chunk.css.map",
+    "static/js/2.09591ad4.chunk.js.LICENSE.txt": "/marketing-search/static/js/2.09591ad4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72ae339f.js",
+    "static/css/2.d26d1254.chunk.css",
+    "static/js/2.09591ad4.chunk.js",
+    "static/css/main.95fed2f5.chunk.css",
+    "static/js/main.89b0c112.chunk.js"
+  ]
+}
