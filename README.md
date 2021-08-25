@@ -1,5 +1,7 @@
 # Marketing Data Application
 
+## [Deployed application](https://xekven.github.io/marketing-search)
+
 Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Libraries used
