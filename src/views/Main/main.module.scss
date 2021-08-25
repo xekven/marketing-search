@@ -1,0 +1,24 @@
+.search-container, .result-container {
+    padding: 16px;
+    margin: 16px;
+    border: 1px solid #e8e8e8;
+}
+
+.search-container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 360px;
+}
+
+.result-container {
+    display: flex;
+    flex-direction: column;
+    flex: 3;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}

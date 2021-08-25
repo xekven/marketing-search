@@ -1,0 +1,55 @@
+@import '~antd/dist/antd.css';
+@import './variables.scss';
+
+header, footer {
+    display: flex;
+    flex: 0 0 auto;
+}
+
+header {
+    display: flex;
+    border: 1px solid #e8e8e8;
+    min-height: 80px;
+    margin: 16px;
+    flex-direction: column;
+    padding: 16px;
+}
+
+footer {
+    align-items: end;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 16px;
+}
+
+header .info {
+    font-size: 0.8em;
+}
+
+main {
+    flex: 1 0 auto;
+    display: flex;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+html{
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+#root {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+

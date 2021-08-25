@@ -1,0 +1,72 @@
+  {
+    "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "suppressImplicitAnyIndexErrors": true,
+    "baseUrl": "./",
+    "paths": {
+          "store/*": [
+            "src/store/*"
+          ],
+          "store": [
+            "src/store"
+          ],
+          "styles/*": [
+            "src/styles/*"
+          ],
+          "styles": [
+            "src/styles"
+          ],
+          "actions/*": [
+            "src/store/actions/*"
+          ],
+          "actions": [
+            "src/store/actions"
+          ],
+          "api/*": [
+            "src/store/api/*"
+          ],
+          "reducers/*": [
+            "src/store/reducers/*"
+          ],
+          "reducer": [
+            "src/store/reducer"
+          ],
+          "constants/*": [
+            "src/constants/*"
+          ],
+          "components/*": [
+            "src/components/*"
+          ],
+          "hooks/*": [
+            "src/hooks/*"
+          ],
+          "utilities/*": [
+            "src/utilities/*"
+          ],
+          "common/*": [
+            "src/common/*"
+          ],
+          "views/*": [
+            "src/views/*"
+          ]
+    }
+  }
+}
