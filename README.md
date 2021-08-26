@@ -4,6 +4,13 @@
 
 Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to start
+
+```
+npm i
+npm start
+```
+
 ## Libraries used
 State management:
 - redux
